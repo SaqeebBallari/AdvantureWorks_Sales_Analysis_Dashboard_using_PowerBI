@@ -1,4 +1,4 @@
-# AdvantureWorks_Sales_Analysis_Dashboard_using_PowerBI
+# AdventureWorks_Sales_Analysis_Dashboard_using_PowerBI
 
 *The Situation* - You’ve just been hired as a Business Intelligence Analyst by **AdventureWorks**, a global manufacturing company that produces cycling equipment and accessories
 
